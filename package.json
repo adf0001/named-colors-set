@@ -1,0 +1,26 @@
+{
+  "name": "named-colors-set",
+  "version": "0.1.1",
+  "description": "named-colors set",
+  "main": "named-colors-set.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "named-colors",
+    "set"
+  ],
+  "author": "fwg",
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adf0001/named-colors-set.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adf0001/named-colors-set/issues"
+  },
+  "homepage": "https://github.com/adf0001/named-colors-set#readme"
+}
