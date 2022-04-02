@@ -1,6 +1,8 @@
 # named-colors-set
 named-colors set
 
+refer https://drafts.csswg.org/css-color/#named-colors
+
 # Install
 ```
 npm install named-colors-set
